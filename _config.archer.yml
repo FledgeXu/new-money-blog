@@ -1,6 +1,6 @@
 # ========== Profile ========== #
 # avatar
-avatar: /avatar.jpeg
+avatar: /assets/avatar.jpeg
 #/avatar/Misaka.jpg
 # author name
 author: Fledge Shiu
@@ -74,7 +74,7 @@ main_title: 新钱
 # subtitle
 #subtitle: it's better to burn out than to fade away
 # site haeder image
-site_header_image: /header-image.jpg
+site_header_image: /assets/header-image.jpg
 # post haeder image
 post_header_image: /header-image.jpg
 # 404 image
