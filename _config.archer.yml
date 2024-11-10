@@ -72,7 +72,7 @@ SEO_keywords:
 # main title shown in header image
 main_title: 新钱
 # subtitle
-#subtitle: it's better to burn out than to fade away
+subtitle: 
 # site haeder image
 site_header_image: /assets/header-image.jpg
 # post haeder image
