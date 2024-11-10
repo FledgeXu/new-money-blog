@@ -5,7 +5,7 @@ avatar: /assets/avatar.jpeg
 # author name
 author: Fledge Shiu
 # signature
-#signature: witness me
+signature: Enlighten me
 # SNS (you can custom the order)
 social:
   email: 
@@ -72,7 +72,7 @@ SEO_keywords:
 # main title shown in header image
 main_title: 新钱
 # subtitle
-subtitle: 
+subtitle: 真理是时间的女儿
 # site haeder image
 site_header_image: /assets/header-image.jpg
 # post haeder image
