@@ -76,7 +76,7 @@ subtitle: Truth is the daughter of time, not of authority.
 # site haeder image
 site_header_image: /assets/header-image.jpg
 # post haeder image
-post_header_image: /header-image.jpg
+post_header_image: /assets/header-image.jpg
 # 404 image
 _404_image: /intro/404-bg.jpg
 
